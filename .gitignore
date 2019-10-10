@@ -2,3 +2,8 @@
 */__pycache__/
 __pycache__/
 venv/
+install
+.vscode
+*.zip
+sampleVectors.json
+*.png
